@@ -35,7 +35,14 @@
 | Parameters  | Model | Links | Authors |
 | ------------- | ------------- | ------------- | ------------- |
 | 21.1M | ConvMixer-768/32 (Patches Are All You Need?), achieved 80.16%. | [paper](https://arxiv.org/pdf/2201.09792v1.pdf), [code](https://github.com/locuslab/convmixer) | Asher Trockman, J. Zico Kolter |
-    
+
+## ImageNet top-1, 90% accuracy
+
+| Parameters  | Model | Links | Authors |
+| ------------- | ------------- | ------------- | ------------- |
+| 390M | EfficientNet-B6-Wide with Meta-Pseudo Labels with 300M unlabled images from [JFT](https://paperswithcode.com/dataset/jft-300m)| [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf), [code](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels) | Asher Trockman, J. Zico Kolter |
+
+
 
 ## Why parameter efficiency?
 

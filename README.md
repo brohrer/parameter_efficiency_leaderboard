@@ -4,13 +4,14 @@
 
 | Parameters  | Model | Links | Authors |
 | ------------- | ------------- | ------------- | ------------- |
-| 1,398  | Three-layer Sharpened Cosine Similarity with paired depthwise and pointwise operations  | [code](https://colab.research.google.com/drive/1Lo-P_lMbw3t2RTwpzy1p8h0uKjkCx-RB?usp=sharing) | Raphael Pisoni |
+| 1,398  | Three-layer Sharpened Cosine Similarity with paired depthwise and pointwise operations.  | [code](https://colab.research.google.com/drive/1Lo-P_lMbw3t2RTwpzy1p8h0uKjkCx-RB?usp=sharing) | Raphael Pisoni |
 
 
 ## Fashion MNIST, 90% accuracy
 
 | Parameters  | Model | Links | Authors |
 | ------------- | ------------- | ------------- | ------------- |
+| 3,423 | Four-layer SCSMixer (layers include depthwise and pointwise operations) with 26 3 x 3 kernels in each layer | [code](https://github.com/brohrer/scs_torch_gallery/blob/main/fashion_90_3423.py) | Brandon Rohrer |
 | 7,659 | Three-layer Sharpened Cosine Similarity with 12 5x5 kernels in each layer. | [code](https://github.com/brohrer/scs_torch_gallery/blob/main/fashion_90_7659.py) | Brandon Rohrer |
 
 ## Fashion MNIST, 95% accuracy

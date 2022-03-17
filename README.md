@@ -13,6 +13,11 @@
 | ------------- | ------------- | ------------- | ------------- |
 | 7,659 | Three-layer Sharpened Cosine Similarity with 12 5x5 kernels in each layer. | [code](https://github.com/brohrer/scs_torch_gallery/blob/main/fashion_90_7659.py) | Brandon Rohrer |
 
+## Fashion MNIST, 95% accuracy
+
+| Parameters  | Model | Links | Authors |
+| ------------- | ------------- | ------------- | ------------- |
+
 
 ## CIFAR-10, 80% accuracy
 
@@ -40,7 +45,7 @@
 
 | Parameters  | Model | Links | Authors |
 | ------------- | ------------- | ------------- | ------------- |
-| 21.1M | ConvMixer-768/32 (Patches Are All You Need?), achieved 80.16%. | [paper](https://arxiv.org/pdf/2201.09792v1.pdf), [code](https://github.com/locuslab/convmixer) | Asher Trockman, J. Zico Kolter |
+| 21.1M | ConvMixer-768/32 | [paper](https://arxiv.org/pdf/2201.09792v1.pdf), [code](https://github.com/locuslab/convmixer) | Asher Trockman, J. Zico Kolter |
 
 ## ImageNet top-1, 90% accuracy
 

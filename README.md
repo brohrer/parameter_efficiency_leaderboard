@@ -25,9 +25,15 @@
 
 | Parameters  | Model | Links | Authors |
 | ------------- | ------------- | ------------- | ------------- |
-|  103,000 | ConvMixer-256/8 (Patches Are All You Need?), achieved 91.26%. | [paper](https://arxiv.org/pdf/2201.09792v1.pdf), [code](https://github.com/locuslab/convmixer) | Asher Trockman, J. Zico Kolter |
+|  103,000 | ConvMixer-128/4, achieved 91.26%. | [paper](https://arxiv.org/pdf/2201.09792v1.pdf), [code](https://github.com/locuslab/convmixer) | Asher Trockman, J. Zico Kolter |
 | 639,702 | kEffNet-B0, an EfficientNet with paired pointwise convolutions, achieved 91.64%. | [paper](https://www.researchgate.net/publication/355214501_Grouped_Pointwise_Convolutions_Significantly_Reduces_Parameters_in_EfficientNet/fulltext/6168f71b66e6b95f07cb7118/Grouped-Pointwise-Convolutions-Significantly-Reduces-Parameters-in-EfficientNet.pdf) | Joao Paulo Schwarz Schuler, Santiago Romani, Mohamed Abdel-Nasser, Hatem Rashwan, Domenec Puig |
  | 1.2M | SCS-based network achieved 91.3%. | [code](https://github.com/hukkelas/sharpened_cosine_similarity_torch/blob/main/sharpened_cosine_similarity.py) | Håkon Hukkelås |
+
+## CIFAR-10, 95% accuracy
+
+| Parameters  | Model | Links | Authors |
+| ------------- | ------------- | ------------- | ------------- |
+|  594,000 | ConvMixer-256/8 | [paper](https://arxiv.org/pdf/2201.09792v1.pdf), [code](https://github.com/locuslab/convmixer) | Asher Trockman, J. Zico Kolter |
 
 
 ## ImageNet top-1, 80% accuracy

@@ -5,7 +5,6 @@
 | Parameters  | Model | Links | Authors |
 | ------------- | ------------- | ------------- | ------------- |
 | 910 | ConvNet with customized Hough voting layer | [code](https://colab.research.google.com/drive/1HFwUZQ91CKMGU63KHgvS9kFZgL-w2Cya) | Satoshi Tanaka |
-
 | 1,398  | Three-layer Sharpened Cosine Similarity with paired depthwise and pointwise operations.  | [code](https://colab.research.google.com/drive/1Lo-P_lMbw3t2RTwpzy1p8h0uKjkCx-RB?usp=sharing) | Raphael Pisoni |
 
 ## Fashion MNIST, 90% accuracy

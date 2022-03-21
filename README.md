@@ -4,12 +4,15 @@
 
 | Parameters  | Model | Links | Authors |
 | ------------- | ------------- | ------------- | ------------- |
+| 910 | ConvNet with customized Hough voting layer | [code](https://colab.research.google.com/drive/1HFwUZQ91CKMGU63KHgvS9kFZgL-w2Cya) | Satoshi Tanaka |
+
 | 1,398  | Three-layer Sharpened Cosine Similarity with paired depthwise and pointwise operations.  | [code](https://colab.research.google.com/drive/1Lo-P_lMbw3t2RTwpzy1p8h0uKjkCx-RB?usp=sharing) | Raphael Pisoni |
 
 ## Fashion MNIST, 90% accuracy
 
 | Parameters  | Model | Links | Authors |
 | ------------- | ------------- | ------------- | ------------- |
+| 1,890 | ConvNet with customized Hough voting layer | [code](https://colab.research.google.com/drive/1Jl5OZFTINXkJPPJ5-Xe3_1uV4iAIzqwt) | Satoshi Tanaka |
 | 3,423 | Four-layer SCSMixer (layers include depthwise and pointwise operations) with 26 3 x 3 kernels in each layer | [code](https://github.com/brohrer/scs_torch_gallery/blob/main/fashion_90_3423.py) | Brandon Rohrer |
 | 7,156  | WaveMix Lite-8/5.  | [code](https://github.com/pranavphoenix/WaveMix), [paper](https://arxiv.org/pdf/2203.03689.pdf) | Pranav Jeevan P, Amit Sethi|
 | 7,659 | Three-layer Sharpened Cosine Similarity with 12 5x5 kernels in each layer. | [code](https://github.com/brohrer/scs_torch_gallery/blob/main/fashion_90_7659.py) | Brandon Rohrer |

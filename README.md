@@ -26,6 +26,7 @@
 
 | Parameters  | Model | Links | Authors |
 | ------------- | ------------- | ------------- | ------------- |
+| 37,086 | Three-layer Sharpened Cosine Similarity with 56 kernels in each layer.  | [code](https://github.com/brohrer/scs_torch_gallery/blob/main/cifar10_80_37086.py) | Brandon Rohrer |
 | 45,962  | WaveMix Lite-32/4 (ff=16, mult=1, dropout=0.25).  | [code](https://github.com/pranavphoenix/WaveMix), [paper](https://arxiv.org/pdf/2203.03689.pdf) | Pranav Jeevan P, Amit Sethi|
 | 47,643 | Three-layer Sharpened Cosine Similarity with 30 5x5 kernels in each layer. | [code](https://github.com/brohrer/scs_torch_gallery/blob/main/cifar10_80_47643.py) | Brandon Rohrer |
 
